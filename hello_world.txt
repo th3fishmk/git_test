@@ -1,0 +1,1 @@
+Hello this is just a text file, used to illustrate the capabilities of git and the terminal.
